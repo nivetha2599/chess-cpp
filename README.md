@@ -1,6 +1,6 @@
 # chess-cpp
 
-2 Player Chess game in a command line environment.
+I have implemented a 2 Player Chess game in a command line environment.
 
 Assumptions
 1. The players takes chances alternatively.
@@ -11,10 +11,8 @@ For example "d8" denotes the position of Black Queen in the board.
 
 Task 1 - Game Play :
 Choose Coin :
-When it is the player's turn, he/she can choose any one of his coin by
-denoting the position in the board .
-Once the position is entered, The system should be able to figure out and
-print the following
+When it is the player's turn, he/she can choose any one of his coin by  denoting the position in the board .
+Once the position is entered, The system should be able to figure out and print the following
 1. The current type of coin (King, Queen, Bishop, Knight, Rook or Pawn )
 
 Move Coin
